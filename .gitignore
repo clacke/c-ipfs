@@ -2,6 +2,7 @@
 
 !.gitignore
 !Makefile
+!default.nix
 !**/
 
 *.o
